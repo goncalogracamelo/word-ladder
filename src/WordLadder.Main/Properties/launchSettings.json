@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordLadder.Main": {
+      "commandName": "Project",
+      "commandLineArgs": "\"hide\" \"sort\" \"C:\\temp\\WordLadder\\words-english.txt\" \"C:\\temp\\WordLadder\\ouput.txt\""
+    }
+  }
+}
