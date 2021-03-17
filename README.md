@@ -50,7 +50,7 @@ https://bradfieldcs.com/algos/graphs/word-ladder/9
 - Add more validations to the program input parameters (evaluate using FluentValition package for example)
 - Add more execution metrics that will collect more information from the running application
 
-## Run the Programhnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnhnh
+## Run the Program
 
 WordLadder.Console.exe <start-word> <end-word> <dictionary-full-path> <output-file-full-path>
 
