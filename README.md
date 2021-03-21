@@ -2,9 +2,7 @@
 
 ## Approach Strategy
 
-Creating some initial abstractions and concepts around the problem. 
-Word, Dictionary and WordPath were the first ones to implement and validated by using UnitTests. These helped me to create a sense of the domain.
-The the first strategy implemented was Breadth First - complete and optimizes for the shortest solution.
+Started by creating some initial abstractions and concepts around the problem. Word, Dictionary and WordPath were the first ones to implement and validated by using UnitTests. These helped me to create a sense of the domain. The the first strategy implemented was Breadth First - complete and optimizes for the shortest solution.
 
 ## Global Solution Architecture
 
@@ -21,7 +19,7 @@ WordLadderUnitTests
 
 ## External Libraries
 
-- I/O File Operations: https://www.filehelpers.net/ - 
+- I/O File Operations: https://www.filehelpers.net/
 - Logging: Serilog - Log.File.Sink
 - Unit tests: Xunit and Mock
 
@@ -44,7 +42,7 @@ The Service implements a simple Breadth first strategy.
 
 - Dictionary implementation 
 Improve the search for the the word options. Create an organization of word buckets for all words that are different by one character.
-https://bradfieldcs.com/algos/graphs/word-ladder/9
+https://bradfieldcs.com/algos/graphs/word-ladder
 
 - Implement Async Logic
 - Add more validations to the program input parameters (evaluate using FluentValition package for example)
