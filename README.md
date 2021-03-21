@@ -1,8 +1,6 @@
 # WordLadder Algorithm Implementation
 
-[![Build Status](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml/badge.svg)](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml)
-
-[![Coverage Status](https://coveralls.io/repos/github/goncalogracamelo/word-ladder/badge.svg?branch=main)](https://coveralls.io/github/goncalogracamelo/word-ladder?branch=main)
+[![Build Status](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml/badge.svg)](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml) [![Coverage Status](https://coveralls.io/repos/github/goncalogracamelo/word-ladder/badge.svg?branch=main)](https://coveralls.io/github/goncalogracamelo/word-ladder?branch=main)
 
 ## Approach Strategy
 
