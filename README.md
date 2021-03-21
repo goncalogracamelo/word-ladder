@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml/badge.svg)](https://github.com/goncalogracamelo/word-ladder/actions/workflows/dotnet.yml)
 
+[![Coverage Status](https://coveralls.io/repos/github/goncalogracamelo/word-ladder/badge.svg?branch=main)](https://coveralls.io/github/goncalogracamelo/word-ladder?branch=main)
+
 ## Approach Strategy
 
 Started by creating some initial abstractions and concepts around the problem. Word, Dictionary and WordPath were the first ones to implement and validated by using UnitTests. These helped me to create a sense of the domain. The the first strategy implemented was Breadth First - complete and optimizes for the shortest solution.
